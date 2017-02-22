@@ -59,3 +59,5 @@ function getRange(len){
 		map[val[2]]
 	].join('');
 }
+
+module.exports = getRange;

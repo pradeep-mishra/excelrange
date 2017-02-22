@@ -1,7 +1,7 @@
 {
   "name": "excelrange",
   "description": "Get excel sheet horizontal range from values length",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Pradeep Mishra <pradeep.mishra@raweng.com>",
   "dependencies": {
   },
@@ -25,5 +25,5 @@
   },
   "scripts": {
     "test": "./node_modules/.bin/mocha"
-  },
+  }
 }
